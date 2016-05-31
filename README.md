@@ -8,10 +8,10 @@
 * [JavaScript](http://www.tutorialspoint.com/javascript/index.htm)
 * [JSON](http://www.w3schools.com/json/)
 * [AJAX](http://www.tutorialspoint.com/ajax/index.htm)
-* [jQuery](http://jquery.com/)  Learn(http://www.tutorialspoint.com/jquery/index.htm)
+* [jQuery](http://jquery.com/) - [Learn](http://www.tutorialspoint.com/jquery/index.htm)
  
 ### Fonts
-* [Font Awesome](http://fontawesome.io/)
+* [Font Awesome](http://fontawesome.io/) - [Learn](http://www.tutorialspoint.com//web_icons/font_awesome_icons.htm)
 * [Google Fonts](https://www.google.com/fonts)
 
 ### Libraries
@@ -31,9 +31,9 @@
 * [Visual Studio Community](https://www.visualstudio.com/products/visual-studio-community-vs)
 
 ### Frameworks
-* [Bootstrap](http://getbootstrap.com/) for HTML, CSS & JavaScript
-* [jQuery UI](http://jqueryui.com/)  [Learn](http://www.tutorialspoint.com/jqueryui/index.htm)
-* [Angular](https://angularjs.org/) for JavaScript [Learn](http://www.tutorialspoint.com/angularjs/index.htm)
+* [Bootstrap](http://getbootstrap.com/) for HTML, CSS & JavaScript - [Learn](http://www.tutorialspoint.com/bootstrap/)
+* [jQuery UI](http://jqueryui.com/) for User Interfaces - [Learn](http://www.tutorialspoint.com/jqueryui/index.htm)
+* [Angular](https://angularjs.org/) for JavaScript - [Learn](http://www.tutorialspoint.com/angularjs/index.htm)
 * [ASP.NET](http://asp.net)  [Learn](http://www.tutorialspoint.com/asp.net/index.htm)
 * [Code Igniter](http://www.tutorialspoint.com/codeigniter/index.htm) for PHP [Learn](http://www.tutorialspoint.com/codeigniter/index.htm)
 * [Django](https://www.djangoproject.com/)  [Learn](http://www.tutorialspoint.com/codeigniter/index.htm)
@@ -41,7 +41,8 @@
 * [MVC Framework](http://www.tutorialspoint.com/mvc_framework/index.htm)
 
 ### Version Control 
-* [Git / GitHub - What is it?](http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/)
+* [Git](https://git-scm.com/downloads) - [Learn](http://www.tutorialspoint.com/git/index.htm)
+* [GitHub](https://github.com/) - [Learn](http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/)
 * [Bit Bucket](https://bitbucket.org/)
 
 ### Tools
@@ -50,9 +51,13 @@
 * [Composer](https://getcomposer.org/) - dependency manager for PHP
 
 ### APIs & Web Services
-* [GoogleMaps](https://developers.google.com/maps/)  [Learn](http://www.tutorialspoint.com/google_maps/index.htm)
-* Web Services  [Learn](http://www.tutorialspoint.com/webservices/index.htm)
-* RESTful Web Services [Learn](http://www.tutorialspoint.com/restful/index.htm)
+* [GoogleMaps](https://developers.google.com/maps/) - [Learn](http://www.tutorialspoint.com/google_maps/index.htm)
+* Web Services - [Learn](http://www.tutorialspoint.com/webservices/index.htm)
+* RESTful Web Services - [Learn](http://www.tutorialspoint.com/restful/index.htm)
+
+### Hosting
+* [Azure](https://azure.microsoft.com/en-us/) - [Learn](http://www.tutorialspoint.com//microsoft_azure/microsoft_azure_cdn.htm)
+* [Google Firebase](https://firebase.google.com/)
 
 ### NEXT
 * [NodeJS](http://www.tutorialspoint.com/nodejs/nodejs_introduction.htm)
@@ -65,22 +70,27 @@
 * [Ruby](https://www.ruby-lang.org/en/about/)
 
 ### Databases
-- coming soon
+* [MySQL](https://www.mysql.com/) - [Learn](http://www.tutorialspoint.com/mysql/index.htm)
+* [SQLite](https://www.sqlite.org/) - [Learn](http://www.tutorialspoint.com/sqlite/index.htm)
+* [MongoDB](https://www.mongodb.com/mongodb-3.2) - [Learn](http://www.tutorialspoint.com/mongodb/)
+* [Redis](http://redis.io/) - [Learn](http://www.tutorialspoint.com/redis/index.htm)
+* [CouchDB](http://couchdb.apache.org/) - [Learn](http://www.tutorialspoint.com/couchdb/index.htm)
 
 ##Moble App Development
 ### Mobile App Native Languages
-* [Swift](https://developer.apple.com/swift/) for iOS
-* [Java](https://docs.oracle.com/javase/tutorial/) for Android
-
-- [jQuery Mobile](https://jquerymobile.com/)
-- [PhoneGap](http://phonegap.com/)
+- [Swift](https://developer.apple.com/swift/) for iOS
+- [Java](https://docs.oracle.com/javase/tutorial/) for Android
+- [jQuery Mobile](https://jquerymobile.com/) - [Learn](http://www.tutorialspoint.com/jquery_mobile/index.htm)
+- [PhoneGap](http://phonegap.com/) - [Learn](http://www.tutorialspoint.com/phonegap/index.htm)
 - [Apache Flex SDK](http://flex.apache.org/about-features.html) [Learn](http://www.tutorialspoint.com/flex/index.htm)
 - [Adobe Air SDK](http://www.adobe.com/devnet/air/air-sdk-download.html)
 - [Android Studio](https://developer.android.com/studio/index.html)
 - [Xcode](https://developer.apple.com/xcode/) 
 - [Starling Game Engine](http://gamua.com/starling/)
 - [Feathers Framework](http://feathersui.com/)
-- [Ionic Framework](http://ionicframework.com/)
+- [Ionic Framework](http://ionicframework.com/) - [Learn](http://www.tutorialspoint.com/ionic/index.htm)
+- [Meteor](https://www.meteor.com/) - [Learn](http://www.tutorialspoint.com/meteor/index.htm)
+- [Mobile Testing](http://www.tutorialspoint.com/mobile_testing/index.htm)
 
  
  
