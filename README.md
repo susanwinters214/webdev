@@ -2,22 +2,22 @@
 
 ### Front End
 
-*[HTML 5](http://www.tutorialspoint.com/html5/index.htm)
-*[CSS 3](http://www.tutorialspoint.com/css/index.htm)
-*[SASS](http://sass-lang.com/) [Learn](http://www.tutorialspoint.com/sass/index.htm)
-*[JavaScript](http://www.tutorialspoint.com/javascript/index.htm)
-*[JSON](http://www.w3schools.com/json/)
-*[AJAX](http://www.tutorialspoint.com/ajax/index.htm)
-*[jQuery](http://jquery.com/)  Learn(http://www.tutorialspoint.com/jquery/index.htm)
+* [HTML 5](http://www.tutorialspoint.com/html5/index.htm)
+* [CSS 3](http://www.tutorialspoint.com/css/index.htm)
+* [SASS](http://sass-lang.com/) [Learn](http://www.tutorialspoint.com/sass/index.htm)
+* [JavaScript](http://www.tutorialspoint.com/javascript/index.htm)
+* [JSON](http://www.w3schools.com/json/)
+* [AJAX](http://www.tutorialspoint.com/ajax/index.htm)
+* [jQuery](http://jquery.com/)  Learn(http://www.tutorialspoint.com/jquery/index.htm)
  
 ### Fonts
-*[Font Awesome](http://fontawesome.io/)
-*[Google Fonts](https://www.google.com/fonts)
+* [Font Awesome](http://fontawesome.io/)
+* [Google Fonts](https://www.google.com/fonts)
 
 ### Libraries
-*[CDN JS](https://cdnjs.com/libraries)
-*[Google CDN](https://developers.google.com/speed/libraries/#libraries)
-*[ReactJS](https://facebook.github.io/react/) JS Library for building UI [Learn](http://www.tutorialspoint.com/reactjs/index.htm)
+* [CDN JS](https://cdnjs.com/libraries)
+* [Google CDN](https://developers.google.com/speed/libraries/#libraries)
+* [ReactJS](https://facebook.github.io/react/) JS Library for building UI [Learn](http://www.tutorialspoint.com/reactjs/index.htm)
 
 ### Text Editors
  * [Notepad++](https://notepad-plus-plus.org/)
@@ -72,15 +72,15 @@
 * [Swift](https://developer.apple.com/swift/) for iOS
 * [Java](https://docs.oracle.com/javase/tutorial/) for Android
 
--[jQuery Mobile](https://jquerymobile.com/)
--[PhoneGap](http://phonegap.com/)
--[Apache Flex SDK](http://flex.apache.org/about-features.html) [Learn](http://www.tutorialspoint.com/flex/index.htm)
--[Adobe Air SDK](http://www.adobe.com/devnet/air/air-sdk-download.html)
--[Android Studio](https://developer.android.com/studio/index.html)
--[Xcode](https://developer.apple.com/xcode/) 
--[Starling Game Engine](http://gamua.com/starling/)
--[Feathers Framework](http://feathersui.com/)
--[Ionic Framework](http://ionicframework.com/)
+- [jQuery Mobile](https://jquerymobile.com/)
+- [PhoneGap](http://phonegap.com/)
+- [Apache Flex SDK](http://flex.apache.org/about-features.html) [Learn](http://www.tutorialspoint.com/flex/index.htm)
+- [Adobe Air SDK](http://www.adobe.com/devnet/air/air-sdk-download.html)
+- [Android Studio](https://developer.android.com/studio/index.html)
+- [Xcode](https://developer.apple.com/xcode/) 
+- [Starling Game Engine](http://gamua.com/starling/)
+- [Feathers Framework](http://feathersui.com/)
+- [Ionic Framework](http://ionicframework.com/)
 
  
  
