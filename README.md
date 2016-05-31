@@ -12,4 +12,5 @@
  * Thing Y
  * Thing Z
  
-Created with:  <a href="https://stackedit.io/editor" target="_blank">StackEdit Markdown Editor</a>
+Created with:  <a href="https://stackedit.io/editor" target="_blank">StackEdit Markdown Editor</a><br>
+[Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
