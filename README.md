@@ -34,9 +34,9 @@
 * [Bootstrap](http://getbootstrap.com/) for HTML, CSS & JavaScript - [Learn](http://www.tutorialspoint.com/bootstrap/)
 * [jQuery UI](http://jqueryui.com/) for User Interfaces - [Learn](http://www.tutorialspoint.com/jqueryui/index.htm)
 * [Angular](https://angularjs.org/) for JavaScript - [Learn](http://www.tutorialspoint.com/angularjs/index.htm)
+* [Vanilla JS](http://vanilla-js.com/) for JavaScript
 * [Zurb Foundation](http://foundation.zurb.com/)  [Learn](http://www.tutorialspoint.com/foundation/index.htm)
 * [MVC Framework](http://www.tutorialspoint.com/mvc_framework/index.htm)
-
 
 
 ### Version Control 
@@ -78,7 +78,7 @@
 ### Stacks
 * [Meteor](https://www.meteor.com/) for JavaScript- [Learn](http://www.tutorialspoint.com/meteor/index.htm)
 - [Wakanda](https://wakanda.github.io/wakanda-studio/) for JavaScript
-- * [MEAN.io](http://mean.io/#!/) - MongoDB, Express, AngularJS, NodeJS
+- [MEAN.io](http://mean.io/#!/) - MongoDB, Express, AngularJS, NodeJS
 * [MEAN.js](http://meanjs.org/) - MongoDB, Express, AngularJS, NodeJS
 * [Ruby on Rails](http://rubyonrails.org/) for Ruby
 * [ASP.NET](http://asp.net)  [Learn](http://www.tutorialspoint.com/asp.net/index.htm) for C# or VB.NET
@@ -87,6 +87,8 @@
 * [Django](https://www.djangoproject.com/) for Python [Learn](http://www.tutorialspoint.com/codeigniter/index.htm)
 * [Spring MVC](http://spring.io/) for Java
 
+##Projects:
+*[ToDo](http://todomvc.com/)
 
 ##Moble App Development
 ### Mobile App Native Languages
@@ -101,11 +103,8 @@
 - [Starling Game Engine](http://gamua.com/starling/)
 - [Feathers Framework](http://feathersui.com/)
 - [Ionic Framework](http://ionicframework.com/) - [Learn](http://www.tutorialspoint.com/ionic/index.htm)
-
-
 - [Mobile Testing](http://www.tutorialspoint.com/mobile_testing/index.htm)
 
- 
  
 Created with:  <a href="https://stackedit.io/editor" target="_blank">StackEdit Markdown Editor</a><br>
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
