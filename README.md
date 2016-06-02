@@ -24,9 +24,13 @@
 
 ## FRONT END INTERMEDIATE
 ### Learn Programming Basics Before Attempting JavaScript 
- * [C++ Basics](http://www.tutorialspoint.com/cplusplus/)
- * You are Now Ready To Read This Book: [Think Like A Programmer](http://amzn.to/1Y3nZwT)
- <img src="https://images-na.ssl-images-amazon.com/images/I/51SNkfbLgLL._SX376_BO1,204,203,200_.jpg">
+ * [Intro to Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+
+ * You are Now Ready To Read This Book: [Think Like A Programmer](http://amzn.to/1Y3nZwT)<br>
+ NOTE: You can read the preface, Chapter 1 and 2 without knowing any C++<br>
+But you may want to do a quick review of C++ before continuing. [C++ Basics](http://www.tutorialspoint.com/cplusplus/)<br>
+ <img src="https://images-na.ssl-images-amazon.com/images/I/51SNkfbLgLL._SX376_BO1,204,203,200_.jpg"><br>
+"if you haven’t already solved the problem in your head, then you can’t have a plan for implementing a solution in code. That will come later. Even at the beginning, though, you should have a plan for how you are going to find the solution." 
 
 ### Front End Development (Interactivity)
 * [JavaScript](http://www.tutorialspoint.com/javascript/index.htm)
