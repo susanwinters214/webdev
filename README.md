@@ -1,34 +1,47 @@
 # Web Development Learning Depot
 
-### Front End
+### Set Up Your Working Environment
 
+### Text Editors - Front End
+* [CodePen](http://codepen.io/) - A great place to start without downloading anything
+* [Notepad++](https://notepad-plus-plus.org/)
+* [Sublime Text](https://www.sublimetext.com/) 
+* [Brackets](http://brackets.io/)
+* [ATOM](https://atom.io/)
+
+### IDEs - Back End
+* [Eclipse](https://eclipse.org/ide/)
+* [Visual Code](https://code.visualstudio.com/docs) - [Learn](https://code.visualstudio.com/docs#vscode)
+* [Visual Studio Community](https://www.visualstudio.com/products/visual-studio-community-vs)
+
+### Front End Web Design (Page Layouts & Design)
 * [HTML 5](http://www.tutorialspoint.com/html5/index.htm)
 * [CSS 3](http://www.tutorialspoint.com/css/index.htm)
-* [SASS](http://sass-lang.com/) [Learn](http://www.tutorialspoint.com/sass/index.htm)
+* [SASS](http://sass-lang.com/) [Learn](http://www.tutorialspoint.com/sass/index.htm) - CSS with Super Powers
+
+### Fonts
+* [Font Awesome](http://fontawesome.io/) - [Learn](http://www.tutorialspoint.com//web_icons/font_awesome_icons.htm)
+* [Google Fonts](https://www.google.com/fonts)
+
+### Learn Programming Basics Before Attempting JavaScript 
+ * [C++ Basics](http://www.tutorialspoint.com/cplusplus/)
+ * You are Now Ready To Read This Book: [Think Like A Programmer](http://amzn.to/1Y3nZwT)
+ <img src="https://images-na.ssl-images-amazon.com/images/I/51SNkfbLgLL._SX376_BO1,204,203,200_.jpg">
+
+###  Front End Development (Interactivity)
 * [JavaScript](http://www.tutorialspoint.com/javascript/index.htm)
 * [JSON](http://www.w3schools.com/json/)
 * [AJAX](http://www.tutorialspoint.com/ajax/index.htm)
 * [jQuery](http://jquery.com/) - [Learn](http://www.tutorialspoint.com/jquery/index.htm)
  
-### Fonts
-* [Font Awesome](http://fontawesome.io/) - [Learn](http://www.tutorialspoint.com//web_icons/font_awesome_icons.htm)
-* [Google Fonts](https://www.google.com/fonts)
+
 
 ### Libraries
 * [CDN JS](https://cdnjs.com/libraries)
 * [Google CDN](https://developers.google.com/speed/libraries/#libraries)
 * [ReactJS](https://facebook.github.io/react/) JS Library for building UI [Learn](http://www.tutorialspoint.com/reactjs/index.htm)
 
-### Text Editors
- * [Notepad++](https://notepad-plus-plus.org/)
- * [Sublime Text](https://www.sublimetext.com/3)
- * [Brackets](http://brackets.io/)
- * [ATOM](https://atom.io/)
- * [Eclipse](https://eclipse.org/ide/)
- * [Visual Code](https://code.visualstudio.com/docs)
- 
-### IDEs
-* [Visual Studio Community](https://www.visualstudio.com/products/visual-studio-community-vs)
+
 
 ### Frameworks
 * [Bootstrap](http://getbootstrap.com/) for HTML, CSS & JavaScript - [Learn](http://www.tutorialspoint.com/bootstrap/)
