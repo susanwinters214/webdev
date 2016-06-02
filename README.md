@@ -1,18 +1,12 @@
 # Web Development Learning Depot
 
-### Set Up Your Working Environment
-
-### Text Editors - Front End
+## FRONT END BASICS
+### Set Up Your Working Environment / Text Editors for Front End 
 * [CodePen](http://codepen.io/) - A great place to start without downloading anything
 * [Notepad++](https://notepad-plus-plus.org/)
 * [Sublime Text](https://www.sublimetext.com/) 
 * [Brackets](http://brackets.io/)
 * [ATOM](https://atom.io/)
-
-### IDEs - Back End
-* [Eclipse](https://eclipse.org/ide/)
-* [Visual Code](https://code.visualstudio.com/docs) - [Learn](https://code.visualstudio.com/docs#vscode)
-* [Visual Studio Community](https://www.visualstudio.com/products/visual-studio-community-vs)
 
 ### Front End Web Design (Page Layouts & Design)
 * [HTML 5](http://www.tutorialspoint.com/html5/index.htm)
@@ -23,59 +17,56 @@
 * [Font Awesome](http://fontawesome.io/) - [Learn](http://www.tutorialspoint.com//web_icons/font_awesome_icons.htm)
 * [Google Fonts](https://www.google.com/fonts)
 
+### Add a Framework To Your Environment
+* [Bootstrap](http://getbootstrap.com/) for HTML, CSS & JavaScript - [Learn](http://www.tutorialspoint.com/bootstrap/)
+* [Zurb Foundation](http://foundation.zurb.com/)  [Learn](http://www.tutorialspoint.com/foundation/index.htm)
+* [jQuery UI](http://jqueryui.com/) for User Interfaces - [Learn](http://www.tutorialspoint.com/jqueryui/index.htm)
+
+## FRONT END INTERMEDIATE
 ### Learn Programming Basics Before Attempting JavaScript 
  * [C++ Basics](http://www.tutorialspoint.com/cplusplus/)
  * You are Now Ready To Read This Book: [Think Like A Programmer](http://amzn.to/1Y3nZwT)
  <img src="https://images-na.ssl-images-amazon.com/images/I/51SNkfbLgLL._SX376_BO1,204,203,200_.jpg">
 
-###  Front End Development (Interactivity)
+### Front End Development (Interactivity)
 * [JavaScript](http://www.tutorialspoint.com/javascript/index.htm)
 * [JSON](http://www.w3schools.com/json/)
 * [AJAX](http://www.tutorialspoint.com/ajax/index.htm)
 * [jQuery](http://jquery.com/) - [Learn](http://www.tutorialspoint.com/jquery/index.htm)
  
-
-
 ### Libraries
 * [CDN JS](https://cdnjs.com/libraries)
 * [Google CDN](https://developers.google.com/speed/libraries/#libraries)
 * [ReactJS](https://facebook.github.io/react/) JS Library for building UI [Learn](http://www.tutorialspoint.com/reactjs/index.htm)
-
-
-
-### Frameworks
-* [Bootstrap](http://getbootstrap.com/) for HTML, CSS & JavaScript - [Learn](http://www.tutorialspoint.com/bootstrap/)
-* [jQuery UI](http://jqueryui.com/) for User Interfaces - [Learn](http://www.tutorialspoint.com/jqueryui/index.htm)
-* [Angular](https://angularjs.org/) for JavaScript - [Learn](http://www.tutorialspoint.com/angularjs/index.htm)
-* [Vanilla JS](http://vanilla-js.com/) for JavaScript
-* [Zurb Foundation](http://foundation.zurb.com/)  [Learn](http://www.tutorialspoint.com/foundation/index.htm)
-* [MVC Framework](http://www.tutorialspoint.com/mvc_framework/index.htm)
-
-
-### Version Control 
-* [Git](https://git-scm.com/downloads) - [Learn](http://www.tutorialspoint.com/git/index.htm)
-* [GitHub](https://github.com/) - [Learn](http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/)
-* [Bit Bucket](https://bitbucket.org/)
-
-### Tools
-* [What is Gulp?](https://css-tricks.com/gulp-for-beginners/)
-* [Bower.io](http://bower.io/) - a package manager for the web
-* [Composer](https://getcomposer.org/) - dependency manager for PHP
 
 ### APIs & Web Services
 * [GoogleMaps](https://developers.google.com/maps/) - [Learn](http://www.tutorialspoint.com/google_maps/index.htm)
 * Web Services - [Learn](http://www.tutorialspoint.com/webservices/index.htm)
 * RESTful Web Services - [Learn](http://www.tutorialspoint.com/restful/index.htm)
 
-### Hosting
-* [Azure](https://azure.microsoft.com/en-us/) - [Learn](http://www.tutorialspoint.com//microsoft_azure/microsoft_azure_cdn.htm)
-* [Google Firebase](https://firebase.google.com/)
+## FRONT END ADVANCED
 
-### NEXT
-* [NodeJS](http://www.tutorialspoint.com/nodejs/nodejs_introduction.htm)
+### Frameworks
+* [Angular](https://angularjs.org/) for JavaScript - [Learn](http://www.tutorialspoint.com/angularjs/index.htm)
+* [Vanilla JS](http://vanilla-js.com/) for JavaScript
+* [MVC Framework](http://www.tutorialspoint.com/mvc_framework/index.htm)
+
+### Source Code Version Control 
+* [Git](https://git-scm.com/downloads) - [Learn](http://www.tutorialspoint.com/git/index.htm)
+* [GitHub](https://github.com/) - [Learn](http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/)
+* [Bit Bucket](https://bitbucket.org/)
+
+## BACK END DEVELOPMENT
+### Switch from Using a Text Editor to an IDE 
+* [Eclipse](https://eclipse.org/ide/)
+* [Visual Code](https://code.visualstudio.com/docs) - [Learn](https://code.visualstudio.com/docs#vscode)
+* [Visual Studio Community](https://www.visualstudio.com/products/visual-studio-community-vs)
+
+### Package Manager
 * [NPM](https://docs.npmjs.com/getting-started/what-is-npm)
 
 ### ServerSide Languages
+* [NodeJS](http://www.tutorialspoint.com/nodejs/nodejs_introduction.htm)
 * [PHP](https://developer.apple.com/swift/)  
 * [Java](https://docs.oracle.com/javase/tutorial/)  
 * [C#](https://msdn.microsoft.com/en-us/library/a72418yk.aspx)
@@ -87,6 +78,15 @@
 * [MongoDB](https://www.mongodb.com/mongodb-3.2) - [Learn](http://www.tutorialspoint.com/mongodb/)
 * [Redis](http://redis.io/) - [Learn](http://www.tutorialspoint.com/redis/index.htm)
 * [CouchDB](http://couchdb.apache.org/) - [Learn](http://www.tutorialspoint.com/couchdb/index.htm)
+
+### Hosting
+* [Azure](https://azure.microsoft.com/en-us/) - [Learn](http://www.tutorialspoint.com//microsoft_azure/microsoft_azure_cdn.htm)
+* [Google Firebase](https://firebase.google.com/)
+
+### Tools
+* [What is Gulp?](https://css-tricks.com/gulp-for-beginners/)
+* [Bower.io](http://bower.io/) - a package manager for the web
+* [Composer](https://getcomposer.org/) - dependency manager for PHP
  
 ### Stacks
 * [Meteor](https://www.meteor.com/) for JavaScript- [Learn](http://www.tutorialspoint.com/meteor/index.htm)
