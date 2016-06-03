@@ -1,6 +1,9 @@
 # Web Development Learning Depot
 
 ## FRONT END BASICS
+
+A browser is made up of 2 components - a Rendering Engine (for HTML & CSS displays) and a Scripting Engine (for processing JavaScript)
+
 ### Set Up Your Working Environment / Text Editors for Front End 
 * [CodePen](http://codepen.io/) - A great place to start without downloading anything
 * [Notepad++](https://notepad-plus-plus.org/)
@@ -32,6 +35,7 @@ Projects:<br>
 * Create a web page and embed a YouTube video
 * Create a web page that displays a video via HTML5
 * Create a web page that embeds a presentation from [Slideshare](http://www.slideshare.net/)
+* Create a web page that lets people leave you a voicemail [SpeakPipe](https://www.speakpipe.com/)
 
 Resources:<br>
 * [Dreamweaver](http://www.adobe.com/products/dreamweaver.html) Student Discount! [Tutorials](https://helpx.adobe.com/dreamweaver/how-to/make-style-web-page.html)
@@ -113,7 +117,21 @@ Resources:<br>
 * [GitHub](https://github.com/) - [Learn](http://www.howtogeek.com/180167/htg-explains-what-is-github-and-what-do-geeks-use-it-for/)
 * [Bit Bucket](https://bitbucket.org/)
 
+----------------------------------------
+
 ## BACK END DEVELOPMENT
+
+### Web Servers
+A web server is software that processes requests via HTTP.
+* [Apache](http://httpd.apache.org) - Most used web server software; open source community, used to provide server side language support like PHP.
+* [Nginx](http://nginx.org) - Pronounced Engine X - Open source, focuses on high concurrency, performance and low memory usage. Good for serving static concntent. Used for advanced solutions such as load balancing. Can NOT be used for server side languages.
+* [IIS](https://www.iis.net) - Developed by Microsoft. Out of the box support for services such as FTP & SMTP.
+
+* [WAMP](https://en.wikipedia.org/wiki/WampServer) - Windows, Apache, MySQL, PHP
+* [MAMP](https://www.mamp.info/en/downloads/) - MacIntosh, Apache, MySQL, PHP
+* [Amppx](http://www.ampps.com/downloads) - Windows, Mac or Linux
+
+
 ### Switch from Using a Text Editor to an IDE 
 * [Eclipse](https://eclipse.org/ide/)
 * [Visual Code](https://code.visualstudio.com/docs) - [Learn](https://code.visualstudio.com/docs#vscode)
@@ -163,6 +181,11 @@ _STOP!_ Take a break from reading and go build a web application. <br>
 ----------------------------------------
 
 ##Moble App Development
+### Mobile Websites
+A website viewed with your mobile phone. No need to download an app from the App store.
+Place this meta tag in your head section. This makes the page fit the screen.
+'<meta name="viewport" content="width=device-width, initial-scale=1">'
+
 ### Mobile App Native Languages
 - [Swift](https://developer.apple.com/swift/) for iOS
 - [Java](https://docs.oracle.com/javase/tutorial/) for Android
