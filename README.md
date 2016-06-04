@@ -52,6 +52,32 @@ Resources:<br>
 ----------------------------------------
 
 ## FRONT END INTERMEDIATE
+
+### HTML5 JavaScript APIs
+|API   | Description          |
+|---------------|:----------------------------------------------------|
+|Forms  | Set input types and validation  |
+|Web Storage  | Store data in the browser |
+|Audio & Video  |  Play audio & video in the browser without a plugin |
+|Canvas  |  Create graphs, arts, game graphics and other visual images  |
+|GeoLocation  | Get the location of a user  |
+
+#### HTML5 Forms
+|Feature  | Example          |
+|--------------------------------|:----------------------------------------------------|
+|Autofocus  | `<input name="firstName" type="text" placeholder="First Name>`  |
+|Placeholder Text  | `<input name="firstName" type="text" autofocus="">` |
+|Numbers  |  `<input name="myNumber" type="number">` |
+|Email Address |  `<input name="myEmail" type="email">`  |
+|Web Address  | `<input name="myUrl" type="url"> `  |
+|Dates  | `<input name="date" type="date">`  |
+|Validation  | `<input name="firstName" type="text" required="">`  |
+
+### CSS 3 Pseudo-Classes
+*[Psudo-Classes on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) - look at :disabled, :enabled, :link, :hover, :visited, :active, :focus, :indeterminate, :valid, :invalid, and :target
+
+
+----------------------------------------------------------------------------------------
 ### Learn Programming Basics Before Attempting JavaScript 
 Before you jump off into the world of JavaScript, you should first learn how to solve problems. While learning HTML and CSS you were mainly focusing on syntax. You will need to learn the syntax of JavaScript too but there's more to it than just memorizing syntax. I recommend you take a break from coding and just spend the next week learning about [algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) and how to [Think Like A Programmer](http://amzn.to/1Y3nZwT). 
 
@@ -197,7 +223,7 @@ _STOP!_ Take a break from reading and go build a web application. <br>
 ### Mobile Websites
 A website viewed with your mobile phone. No need to download an app from the App store.
 Place this meta tag in your head section. This makes the page fit the screen.
-'<meta name="viewport" content="width=device-width, initial-scale=1">'
+`<meta name="viewport" content="width=device-width, initial-scale=1>`
 
 ### Mobile App Native Languages
 - [Swift](https://developer.apple.com/swift/) for iOS
