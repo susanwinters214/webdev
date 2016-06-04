@@ -32,7 +32,7 @@ You'll quickly learn that every website has the same setup structure (folder for
 * [Bootstrap](http://getbootstrap.com/) for HTML, CSS & JavaScript - [Learn](http://www.tutorialspoint.com/bootstrap/)
 * [Zurb Foundation](http://foundation.zurb.com/) - [Learn](http://www.tutorialspoint.com/foundation/index.htm)
 
-Congrats! You've now learned the basics of web design and could get a job with the knowledge and skills you've gained. But how is your confidence? Before you start looking for a job you'll need to have confidence in your new abilities. And the way you gain confidence is through repeatedly completing projects successfully. Don't worry. Nobdoy knows it all! If you come across something you don't know how to do, learn how to Google your goal and test out various projects.
+Congrats! You've now learned the basics of web design and could get a job with the knowledge and skills you've gained. But how is your confidence? Before you start looking for a job you'll need to have confidence in your new abilities. And the way you gain confidence is through repeatedly completing projects successfully. Don't worry. Nobody knows it all! If you come across something you don't know how to do, learn how to Google your goal and test out various projects.
 
 _STOP!_ Take a break from reading and go build a few websites using HTML and CSS. <br>
 
@@ -56,7 +56,8 @@ Resources:<br>
 Before you jump off into the world of JavaScript, you should first learn how to solve problems. While learning HTML and CSS you were mainly focusing on syntax. You will need to learn the syntax of JavaScript too but there's more to it than just memorizing syntax. I recommend you take a break from coding and just spend the next week learning about [algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) and how to [Think Like A Programmer](http://amzn.to/1Y3nZwT). 
 
 NOTE: You can read the book without knowing any C++ and you can read Chapter 1 and 2 without buying the book! Just click on the image and then click on the link above the image that says "Look Inside". The content teaches you strategies for solving problems, puzzles, mazes and more. It's actually fun to discover these concepts and you will definately feel a lot smarter once you do!<br>
- <img src="https://images-na.ssl-images-amazon.com/images/I/51SNkfbLgLL._SX376_BO1,204,203,200_.jpg"><br>
+<a href="http://amzn.to/1Y3nZwT">
+ <img src="https://images-na.ssl-images-amazon.com/images/I/51SNkfbLgLL._SX376_BO1,204,203,200_.jpg"></a><br>
  
 "if you haven’t already solved the problem in your head, then you can’t have a plan for implementing a solution in code. That will come later. Even at the beginning, though, you should have a plan for how you are going to find the solution." 
 
