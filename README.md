@@ -4,26 +4,35 @@
 
 A browser is made up of 2 components - a Rendering Engine (for HTML & CSS displays) and a Scripting Engine (for processing JavaScript)
 
-### Set Up Your Working Environment / Text Editors for Front End 
-* [CodePen](http://codepen.io/) - A great place to start without downloading anything
+### Set Up Your Working Environment / 
+You can start out practicing HTML & CSS using [CodePen](http://codepen.io/) for simple one page web designs. They have a free and paid version. I started out with the free version then after a few months switched to the paid versions so that I could upload images and link to them in my code and so that I could make pages 'private'. With CodePen you don't have to download any software. Everything is done online. 
+
+### Switching to a Downloaded Text Editor  
+Once you begin creating web pages that link together, you will probably want switch from using CodePen and start using a Text Editor so that you can create a project folder that will contain your html, css, javascript and images for one website in one place.  Below are several text editors you can try out. You do NOT need to learn how to use every single one of these! But since they are free, you may want to try a few out to see the differences and then use the one that suits your preferences. You may decide to create one project with one editor and your next project with a different editor. Not a problem. Below are the most commonly used text editors that people start out with when learning to code. 
 * [Notepad++](https://notepad-plus-plus.org/)
 * [Sublime Text](https://www.sublimetext.com/) 
 * [Brackets](http://brackets.io/)
 * [ATOM](https://atom.io/)
+* [Aptana Studio](http://www.aptana.com/)
 
 ### Front End Web Design (Page Layouts & Design)
+Once you have decided which environment you want to use, the next step is to start learning and start practicing!
 * [HTML 5](http://www.tutorialspoint.com/html5/index.htm)
 * [CSS 3](http://www.tutorialspoint.com/css/index.htm)
 * [SASS](http://sass-lang.com/) [Learn](http://www.tutorialspoint.com/sass/index.htm) - CSS with Super Powers
+* [jQuery UI](http://jqueryui.com/) for User Interfaces - [Learn](http://www.tutorialspoint.com/jqueryui/index.htm) - [Demos](http://jqueryui.com/demos/)
 
 ### Fonts
 * [Font Awesome](http://fontawesome.io/) - [Learn](http://www.tutorialspoint.com//web_icons/font_awesome_icons.htm)
 * [Google Fonts](https://www.google.com/fonts)
 
-### Add a Framework To Your Environment
+### Quick Templates to Get Your Web Project Started<br>
+You'll quickly learn that every website has the same setup structure (folder for images, css, and javascript, and index file, etc.) Here are a few tools you can use that will help you get your website projects started quickly. 
+* [HTML5 BoilerPlate](https://html5boilerplate.com/)
 * [Bootstrap](http://getbootstrap.com/) for HTML, CSS & JavaScript - [Learn](http://www.tutorialspoint.com/bootstrap/)
-* [jQuery UI](http://jqueryui.com/) for User Interfaces - [Learn](http://www.tutorialspoint.com/jqueryui/index.htm) - [Demos](http://jqueryui.com/demos/)
-* [Zurb Foundation] - (http://foundation.zurb.com/) - [Learn](http://www.tutorialspoint.com/foundation/index.htm)
+* [Zurb Foundation](http://foundation.zurb.com/) - [Learn](http://www.tutorialspoint.com/foundation/index.htm)
+
+Congrats! You've now learned the basics of web design and could get a job with the knowledge and skills you've gained. But how is your confidence level? Before you start looking for a job you'll need to have confidence in your new abilities. And the way you gain confidence is through repeatedly completing projects successfully. Don't worry. Nobdoy knows it all! If you come across something you don't know how to do, learn how to Google your goal and test out various projects.
 
 _STOP!_ Take a break from reading and go build a website using HTML and CSS. <br>
 
