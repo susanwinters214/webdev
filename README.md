@@ -4,11 +4,11 @@
 
 A browser is made up of 2 components - a Rendering Engine (for HTML & CSS displays) and a Scripting Engine (for processing JavaScript)
 
-### Set Up Your Working Environment / 
+### Set Up Your Working Environment  
 You can start out practicing HTML & CSS using [CodePen](http://codepen.io/) for simple one page web designs. They have a free and paid version. I started out with the free version then after a few months switched to the paid versions so that I could upload images and link to them in my code and so that I could make pages 'private'. With CodePen you don't have to download any software. Everything is done online. 
 
 ### Switching to a Downloaded Text Editor  
-Once you begin creating web pages that link together, you will probably want switch from using CodePen and start using a Text Editor so that you can create a project folder that will contain your html, css, javascript and images for one website in one place.  Below are several text editors you can try out. You do NOT need to learn how to use every single one of these! But since they are free, you may want to try a few out to see the differences and then use the one that suits your preferences. You may decide to create one project with one editor and your next project with a different editor. Not a problem. Below are the most commonly used text editors that people start out with when learning to code. 
+Once you begin creating web pages that link together, you will probably want to switch from using CodePen to using a Text Editor so that you can create a project folder that will contain your html, css, javascript and images for one website in one place.  Below are several text editors you can try out. You do NOT need to learn how to use every single one of these! But since they are free, you may want to try a few out to see the differences and then use the one that suits your preferences. You may decide to create one project with one editor and your next project with a different editor. Not a problem. Below are the most commonly used text editors that people start out with when learning to code. 
 * [Notepad++](https://notepad-plus-plus.org/)
 * [Sublime Text](https://www.sublimetext.com/) 
 * [Brackets](http://brackets.io/)
@@ -16,7 +16,7 @@ Once you begin creating web pages that link together, you will probably want swi
 * [Aptana Studio](http://www.aptana.com/)
 
 ### Front End Web Design (Page Layouts & Design)
-Once you have decided which environment you want to use, the next step is to start learning and start practicing!
+Once you have decided which environment you want to use, the next step is to start learning and start practicing! HTML5 is an umbrella term used to cover the HTML markup, CSS3 and JavaScript APIs. This first section will only focus on HTML markup and CSS. 
 * [HTML 5](http://www.tutorialspoint.com/html5/index.htm)
 * [CSS 3](http://www.tutorialspoint.com/css/index.htm)
 * [SASS](http://sass-lang.com/) [Learn](http://www.tutorialspoint.com/sass/index.htm) - CSS with Super Powers
@@ -32,9 +32,9 @@ You'll quickly learn that every website has the same setup structure (folder for
 * [Bootstrap](http://getbootstrap.com/) for HTML, CSS & JavaScript - [Learn](http://www.tutorialspoint.com/bootstrap/)
 * [Zurb Foundation](http://foundation.zurb.com/) - [Learn](http://www.tutorialspoint.com/foundation/index.htm)
 
-Congrats! You've now learned the basics of web design and could get a job with the knowledge and skills you've gained. But how is your confidence level? Before you start looking for a job you'll need to have confidence in your new abilities. And the way you gain confidence is through repeatedly completing projects successfully. Don't worry. Nobdoy knows it all! If you come across something you don't know how to do, learn how to Google your goal and test out various projects.
+Congrats! You've now learned the basics of web design and could get a job with the knowledge and skills you've gained. But how is your confidence? Before you start looking for a job you'll need to have confidence in your new abilities. And the way you gain confidence is through repeatedly completing projects successfully. Don't worry. Nobdoy knows it all! If you come across something you don't know how to do, learn how to Google your goal and test out various projects.
 
-_STOP!_ Take a break from reading and go build a website using HTML and CSS. <br>
+_STOP!_ Take a break from reading and go build a few websites using HTML and CSS. <br>
 
 Projects:<br>
 * Create a photo gallery web page
@@ -53,12 +53,11 @@ Resources:<br>
 
 ## FRONT END INTERMEDIATE
 ### Learn Programming Basics Before Attempting JavaScript 
- * [Intro to Algorithms](https://www.khanacademy.org/computing/computer-science/algorithms)
+Before you jump off into the world of JavaScript, you should first learn how to solve problems. While learning HTML and CSS you were mainly focusing on syntax. You will need to learn the syntax of JavaScript too but there's more to it than just memorizing syntax. I recommend you take a break from coding and just spend the next week learning about [algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) and how to [Think Like A Programmer](http://amzn.to/1Y3nZwT). 
 
- * You are Now Ready To Read This Book: [Think Like A Programmer](http://amzn.to/1Y3nZwT)<br>
- NOTE: You can read the preface, Chapter 1 and 2 without knowing any C++<br>
-But you may want to do a quick review of C++ before continuing. [C++ Basics](http://www.tutorialspoint.com/cplusplus/)<br>
+NOTE: You can read the book without knowing any C++ and you can read Chapter 1 and 2 without buying the book! Just click on the image and then click on the link above the image that says "Look Inside". The content teaches you strategies for solving problems, puzzles, mazes and more. It's actually fun to discover these concepts and you will definately feel a lot smarter once you do!<br>
  <img src="https://images-na.ssl-images-amazon.com/images/I/51SNkfbLgLL._SX376_BO1,204,203,200_.jpg"><br>
+ 
 "if you haven’t already solved the problem in your head, then you can’t have a plan for implementing a solution in code. That will come later. Even at the beginning, though, you should have a plan for how you are going to find the solution." 
 
 ### Front End Development (Interactivity)
@@ -130,15 +129,19 @@ Resources:<br>
 
 ## BACK END DEVELOPMENT
 
+### HTTP
+The Hypertext Transfer Protocol (HTTP) is a protocol that web browsers and web servers use to communicate. It sets the specifications for HTTP requests and responses. A 'client' requests to view a website (by typing in a URL in the browser). This sends a "GET" request to the server. The 'server' then responds by finding the requested files hosted on the server and sends them back to the client via an HTTP response. 
+
 ### Web Servers
 A web server is software that processes requests via HTTP.
-* [Apache](http://httpd.apache.org) - Most used web server software; open source community, used to provide server side language support like PHP.
-* [Nginx](http://nginx.org) - Pronounced Engine X - Open source, focuses on high concurrency, performance and low memory usage. Good for serving static concntent. Used for advanced solutions such as load balancing. Can NOT be used for server side languages.
-* [IIS](https://www.iis.net) - Developed by Microsoft. Out of the box support for services such as FTP & SMTP.
+* [Apache](http://httpd.apache.org) - Most used web server software; open source community, used to provide server side language support like PHP. _https://en.wikipedia.org/wiki/Apache_HTTP_Server_
+* [Nginx](http://nginx.org) - Pronounced Engine X - Open source, focuses on high concurrency, performance and low memory usage. Good for serving static concntent. Used for advanced solutions such as load balancing and serving as a reverse proxy. Can NOT be used for server side languages. _https://en.wikipedia.org/wiki/Nginx_
+* [IIS](https://www.iis.net) - Developed by Microsoft. Out of the box support for services such as FTP & SMTP. _https://en.wikipedia.org/wiki/Internet_Information_Services_
 
+## Set Up a Server on Your "Local" Computer
 * [WAMP](https://en.wikipedia.org/wiki/WampServer) - Windows, Apache, MySQL, PHP
 * [MAMP](https://www.mamp.info/en/downloads/) - MacIntosh, Apache, MySQL, PHP
-* [Amppx](http://www.ampps.com/downloads) - Windows, Mac or Linux
+* [Ampps](http://www.ampps.com/downloads) - Windows, Mac or Linux
 
 
 ### Switch from Using a Text Editor to an IDE 
