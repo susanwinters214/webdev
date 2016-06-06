@@ -93,8 +93,10 @@ NOTE: You can read the book without knowing any C++ and you can read Chapter 1 a
 * [AJAX](http://www.tutorialspoint.com/ajax/index.htm)
 * [jQuery](http://jquery.com/) - [Learn](http://www.tutorialspoint.com/jquery/index.htm)
 
-### OATH
+### OAuth
+* What the heck is OAuth? [Read](OAuth) - [Video](https://www.youtube.com/watch?v=8sGY55yxicA)
 * Logging in with Social Media Accounts
+* [Logging in with Google Account](https://developers.google.com/identity/?csw=1)
 * [SignIn with LinkedIn](https://developer.linkedin.com/docs/signin-with-linkedin)
 
 ### APIs
@@ -176,11 +178,9 @@ A web server is software that processes requests via HTTP.
 * [Visual Code](https://code.visualstudio.com/docs) - [Learn](https://code.visualstudio.com/docs#vscode)
 * [Visual Studio Community](https://www.visualstudio.com/products/visual-studio-community-vs)
 
-### Package Manager
-* [NPM](https://docs.npmjs.com/getting-started/what-is-npm)
-
 ### ServerSide Languages
-* [NodeJS](http://www.tutorialspoint.com/nodejs/nodejs_introduction.htm)
+* [NodeJS](http://www.tutorialspoint.com/nodejs/nodejs_introduction.htm) - [Read Intro](https://blogs.msdn.microsoft.com/cdndevs/2014/09/04/a-chatroom-for-all-part-1-introduction-to-node-js/)<br>
+   * Node Package Manager: [NPM](https://docs.npmjs.com/getting-started/what-is-npm)
 * [PHP](https://developer.apple.com/swift/)  
 * [Java](https://docs.oracle.com/javase/tutorial/)  
 * [C#](https://msdn.microsoft.com/en-us/library/a72418yk.aspx)
