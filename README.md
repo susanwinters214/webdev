@@ -53,14 +53,21 @@ Resources:<br>
 
 ## FRONT END INTERMEDIATE
 
-### HTML5 JavaScript APIs
-|API   | Description          |
-|---------------|:----------------------------------------------------|
-|Forms  | Set input types and validation  |
-|Web Storage  | Store data in the browser |
-|Audio & Video  |  Play audio & video in the browser without a plugin |
-|Canvas  |  Create graphs, arts, game graphics and other visual images  |
-|GeoLocation  | Get the location of a user  |
+### HTML5 JavaScript APIs - [Read](http://html5index.org/)
+|API            | Description                     | Example                    |
+|---------------|:--------------------------------|:---------------------------|
+|Forms          | Set input types and validation  | [view example](http://codepen.io/susanwinters/pen/YwqNdq)         |
+|Drag & Drop    | [drag & drop an element](http://www.html5rocks.com/en/tutorials/dnd/basics/)  | [view example](http://codepen.io/susanwinters/pen/Ywqpyv) |
+|Web Storage     | Store data in the browser                                    |  coming soon |
+|Web Workers     | [Concurrent JavaScripts](http://www.html5rocks.com/en/tutorials/workers/basics/#toc-introduction-jsconcurrency) |  |
+|File API        | [Upload files and images](http://www.html5rocks.com/en/tutorials/file/dndfiles/#toc-introduction) | [view example](http://codepen.io/susanwinters/pen/GoZWpv) |
+|Audio & Video   |  Play audio & video in the browser without a plugin          |  coming soon |
+|Canvas          |  Create graphs, arts, game graphics and other visual images  |  [view example](http://codepen.io/susanwinters/pen/Ywqpyv) |
+|SVG             | Scaled Vector Graphic | [view example](http://codepen.io/susanwinters/pen/pgyNey)  |
+|GeoLocation     | Get the location of a user                                   |  coming soon |
+
+[10 HTML5 APIs worth looking at](https://www.sitepoint.com/10-html5-apis-worth-looking/)
+
 
 #### HTML5 Forms
 |Feature  | Example          |
@@ -90,7 +97,7 @@ NOTE: You can read the book without knowing any C++ and you can read Chapter 1 a
 ### Front End Development (Interactivity)
 * [JavaScript](http://www.tutorialspoint.com/javascript/index.htm)
 * [JSON](http://www.w3schools.com/json/)
-* [AJAX](http://www.tutorialspoint.com/ajax/index.htm)
+* [AJAX](http://www.tutorialspoint.com/ajax/index.htm) - Ajax is a client-side script that communicates to and from a server/database without the need for a postback or a complete page refresh. Ajax is the method of exchanging data with a server, and updating parts of the web page without reloading the entire page.
 * [jQuery](http://jquery.com/) - [Learn](http://www.tutorialspoint.com/jquery/index.htm)
 
 ### OAuth
@@ -159,7 +166,7 @@ Resources:<br>
 ## BACK END DEVELOPMENT
 
 ### HTTP
-The Hypertext Transfer Protocol (HTTP) is a protocol that web browsers and web servers use to communicate. It sets the specifications for HTTP requests and responses. A 'client' requests to view a website (by typing in a URL in the browser). This sends a "GET" request to the server. The 'server' then responds by finding the requested files hosted on the server and sends them back to the client via an HTTP response. 
+HTTP oversees the exchange of data between a client and a server. The Hypertext Transfer Protocol (HTTP) is a protocol that web browsers and web servers use to communicate. It sets the specifications for HTTP requests and responses. A 'client' requests to view a website (by typing in a URL in the browser). This sends a "GET" request to the server. The 'server' then responds by finding the requested files hosted on the server and sends them back to the client via an HTTP response. In addition to returning the requested file, the web server also responds to each request with a HTTP status code. (200 is ok, 404 file not found, etc.)
 
 ### Web Servers
 A web server is software that processes requests via HTTP.
