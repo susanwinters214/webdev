@@ -88,7 +88,7 @@ Resources:<br>
 ### Learn Programming Basics Before Attempting JavaScript 
 Before you jump off into the world of JavaScript, you should first learn how to solve problems. While learning HTML and CSS you were mainly focusing on syntax. You will need to learn the syntax of JavaScript too but there's more to it than just memorizing syntax. I recommend you take a break from coding and just spend the next week learning about [algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) and how to [Think Like A Programmer](http://amzn.to/1Y3nZwT). 
 
-NOTE: You can read the book without knowing any C++ and you can read Chapter 1 and 2 without buying the book! Just click on the image and then click on the link above the image that says "Look Inside". The content teaches you strategies for solving problems, puzzles, mazes and more. It's actually fun to discover these concepts and you will definately feel a lot smarter once you do!<br>
+NOTE: You can read the book without knowing any C++ and you can read moar of Chapter 1 without buying the book! Just click on the image and then click on the link above the image that says "Look Inside". The content teaches you strategies for solving problems, puzzles, mazes and more. It's actually fun to discover these concepts and you will definately feel a lot smarter once you do!<br>
 <a href="http://amzn.to/1Y3nZwT">
  <img src="https://images-na.ssl-images-amazon.com/images/I/51SNkfbLgLL._SX376_BO1,204,203,200_.jpg"></a><br>
  
