@@ -165,6 +165,10 @@ Resources:<br>
 
 ## BACK END DEVELOPMENT
 
+### Command Line
+Watch these videos: https://thenewboston.com/videos.php?cat=358
+or start here: https://youtu.be/MBBWVgE0ewk 
+
 ### HTTP
 HTTP oversees the exchange of data between a client and a server. The Hypertext Transfer Protocol (HTTP) is a protocol that web browsers and web servers use to communicate. It sets the specifications for HTTP requests and responses. A 'client' requests to view a website (by typing in a URL in the browser). This sends a "GET" request to the server. The 'server' then responds by finding the requested files hosted on the server and sends them back to the client via an HTTP response. In addition to returning the requested file, the web server also responds to each request with a HTTP status code. (200 is ok, 404 file not found, etc.)
 
