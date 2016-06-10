@@ -14,12 +14,13 @@ Once you begin creating web pages that link together, you will probably want to 
 * [Brackets](http://brackets.io/)
 * [ATOM](https://atom.io/)
 * [Aptana Studio](http://www.aptana.com/)
+* [WebStorm](https://www.jetbrains.com/webstorm/) - Student Discount!
 
 ### Front End Web Design (Page Layouts & Design)
 Once you have decided which environment you want to use, the next step is to start learning and start practicing! HTML5 is an umbrella term used to cover the HTML markup, CSS3 and JavaScript APIs. This first section will only focus on HTML markup and CSS. 
 * [HTML 5](http://www.tutorialspoint.com/html5/index.htm)
 * [CSS 3](http://www.tutorialspoint.com/css/index.htm)
-* [SASS](http://sass-lang.com/) [Learn](http://www.tutorialspoint.com/sass/index.htm) - CSS with Super Powers
+* [SASS](http://sass-lang.com/) - [Learn](http://www.tutorialspoint.com/sass/index.htm) - CSS with Super Powers [Free Intro Interactive Tutorial](https://www.codecademy.com/learn/learn-sass)
 * [jQuery UI](http://jqueryui.com/) for User Interfaces - [Learn](http://www.tutorialspoint.com/jqueryui/index.htm) - [Demos](http://jqueryui.com/demos/)
 
 ### Fonts
@@ -29,19 +30,23 @@ Once you have decided which environment you want to use, the next step is to sta
 ### Quick Templates to Get Your Web Project Started<br>
 You'll quickly learn that every website has the same setup structure (folder for images, css, and javascript, and index file, etc.) Here are a few tools you can use that will help you get your website projects started quickly. 
 * [HTML5 BoilerPlate](https://html5boilerplate.com/)
-* [Bootstrap](http://getbootstrap.com/) for HTML, CSS & JavaScript - [Learn](http://www.tutorialspoint.com/bootstrap/)
+* [Bootstrap](http://getbootstrap.com/) for HTML, CSS & JavaScript - [Learn](http://www.tutorialspoint.com/bootstrap/) - [Free Video Course](http://codecollege.ca/courses/bootstrap-4-quickstart)
 * [Zurb Foundation](http://foundation.zurb.com/) - [Learn](http://www.tutorialspoint.com/foundation/index.htm)
 
 Congrats! You've now learned the basics of web design and could get a job with the knowledge and skills you've gained. But how is your confidence? Before you start looking for a job you'll need to have confidence in your new abilities. And the way you gain confidence is through repeatedly completing projects successfully. Don't worry. Nobody knows it all! If you come across something you don't know how to do, learn how to Google your goal and test out various projects.
 
 _STOP!_ Take a break from reading and go build a few websites using HTML and CSS. <br>
 
-Projects:<br>
-* Create a photo gallery web page
-* Create a restaurant website displaying menu items and images
+Fun Projects:<br>
+* Create a full screen landing page with background image
 * Create a landing page with a carousel slider
+* Create a photo gallery web page [Example](http://www.wayne-dalton.com/WoodDoorGallery/index.html)
+* Create a web page that uses a jQuery plugin [Example](http://susanwinters.info/project-gaylord/index.html)
+* Create a basic form - just the elements not the processing of the form [Example](http://codepen.io/susanwinters/full/yeVGNo/)
+* Learn how to use the Pinterest Widgets [Quick Start Guide](http://codepen.io/susanwinters/full/vKOPpL/)
 * Create a web page with a timeline that tells a story
-* Create a web page and embed a YouTube video
+* Create a restaurant website displaying menu items and images
+* Create a web page and embed a YouTube video [Code Example](http://codepen.io/susanwinters/pen/QNmJQg)
 * Create a web page that displays a video via HTML5
 * Create a web page that embeds a presentation from [Slideshare](http://www.slideshare.net/)
 * Create a web page that lets people leave you a voicemail [SpeakPipe](https://www.speakpipe.com/)
@@ -86,12 +91,8 @@ Resources:<br>
 
 ----------------------------------------------------------------------------------------
 ### Learn Programming Basics Before Attempting JavaScript 
-Before you jump off into the world of JavaScript, you should first learn how to solve problems. While learning HTML and CSS you were mainly focusing on syntax. You will need to learn the syntax of JavaScript too but there's more to it than just memorizing syntax. I recommend you take a break from coding and just spend the next week learning about [algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) and how to [Think Like A Programmer](http://amzn.to/1Y3nZwT). 
+Before you jump off into the world of JavaScript, you should first learn how to solve problems. While learning HTML and CSS you were mainly focusing on syntax. You will need to learn the syntax of JavaScript too but there's more to it than just memorizing syntax. I recommend you take a break from coding and just spend the next week learning about [algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) and how to [Think Like A Programmer](http://amzn.to/1Y3nZwT). You can read Chapter 1 for free on Amazon.
 
-NOTE: You can read the book without knowing any C++ and you can read moar of Chapter 1 without buying the book! Just click on the image and then click on the link above the image that says "Look Inside". The content teaches you strategies for solving problems, puzzles, mazes and more. It's actually fun to discover these concepts and you will definately feel a lot smarter once you do!<br>
-<a href="http://amzn.to/1Y3nZwT">
- <img src="https://images-na.ssl-images-amazon.com/images/I/51SNkfbLgLL._SX376_BO1,204,203,200_.jpg"></a><br>
- 
 "if you haven’t already solved the problem in your head, then you can’t have a plan for implementing a solution in code. That will come later. Even at the beginning, though, you should have a plan for how you are going to find the solution." 
 
 ### Front End Development (Interactivity)
@@ -152,7 +153,7 @@ Resources:<br>
 ## FRONT END ADVANCED
 
 ### Frameworks
-* [Angular](https://angularjs.org/) for JavaScript - [Learn](http://www.tutorialspoint.com/angularjs/index.htm)
+* [Angular](https://angularjs.org/) for JavaScript - [Learn](http://www.tutorialspoint.com/angularjs/index.htm) - [Free Video Tutorials](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
 * [Vanilla JS](http://vanilla-js.com/) for JavaScript
 * [MVC Framework](http://www.tutorialspoint.com/mvc_framework/index.htm)
 
@@ -192,7 +193,7 @@ A web server is software that processes requests via HTTP.
 ### ServerSide Languages
 * [NodeJS](http://www.tutorialspoint.com/nodejs/nodejs_introduction.htm) - [Read Intro](https://blogs.msdn.microsoft.com/cdndevs/2014/09/04/a-chatroom-for-all-part-1-introduction-to-node-js/)<br>
    * Node Package Manager: [NPM](https://docs.npmjs.com/getting-started/what-is-npm)
-* [PHP](https://developer.apple.com/swift/)  
+* [PHP](https://developer.apple.com/swift/) - [Free Video Tutorial](http://codecollege.ca/courses/code-dynamic-websites-with-php)
 * [Java](https://docs.oracle.com/javase/tutorial/)  
 * [C#](https://msdn.microsoft.com/en-us/library/a72418yk.aspx)
 * [Ruby](https://www.ruby-lang.org/en/about/)
