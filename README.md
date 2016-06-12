@@ -20,39 +20,46 @@ Once you begin creating web pages that link together, you will probably want to 
 Once you have decided which environment you want to use, the next step is to start learning and start practicing! HTML5 is an umbrella term used to cover the HTML markup, CSS3 and JavaScript APIs. This first section will only focus on HTML markup and CSS. 
 * [HTML 5](http://www.tutorialspoint.com/html5/index.htm)
 * [CSS 3](http://www.tutorialspoint.com/css/index.htm)
-* [SASS](http://sass-lang.com/) - [Learn](http://www.tutorialspoint.com/sass/index.htm) - CSS with Super Powers [Free Intro Interactive Tutorial](https://www.codecademy.com/learn/learn-sass)
-* [jQuery UI](http://jqueryui.com/) for User Interfaces - [Learn](http://www.tutorialspoint.com/jqueryui/index.htm) - [Demos](http://jqueryui.com/demos/)
 
-### Fonts
-* [Font Awesome](http://fontawesome.io/) - [Learn](http://www.tutorialspoint.com//web_icons/font_awesome_icons.htm)
+### Learn How To Get More Fonts Options
 * [Google Fonts](https://www.google.com/fonts)
+* [Font Awesome](http://fontawesome.io/) - [Learn](http://www.tutorialspoint.com//web_icons/font_awesome_icons.htm)
 
-### Quick Templates to Get Your Web Project Started<br>
-You'll quickly learn that every website has the same setup structure (folder for images, css, and javascript, and index file, etc.) Here are a few tools you can use that will help you get your website projects started quickly. 
-* [HTML5 BoilerPlate](https://html5boilerplate.com/)
-* [Bootstrap](http://getbootstrap.com/) for HTML, CSS & JavaScript - [Learn](http://www.tutorialspoint.com/bootstrap/) - [Free Video Course](http://codecollege.ca/courses/bootstrap-4-quickstart)
-* [Zurb Foundation](http://foundation.zurb.com/) - [Learn](http://www.tutorialspoint.com/foundation/index.htm)
+<b>Congrats!</b> You've now learned the basics of web design and could get a job with the knowledge and skills you've gained. This is a great milestone! So.... how is your confidence? Before you start looking for a job you'll need to have confidence in your new abilities. And the way you gain confidence is through repeatedly completing projects successfully. Don't worry. Nobody knows it all! If you come across something you don't know how to do, learn how to 'Google' your goal and test out various projects.
 
-Congrats! You've now learned the basics of web design and could get a job with the knowledge and skills you've gained. But how is your confidence? Before you start looking for a job you'll need to have confidence in your new abilities. And the way you gain confidence is through repeatedly completing projects successfully. Don't worry. Nobody knows it all! If you come across something you don't know how to do, learn how to Google your goal and test out various projects.
+<b>STOP!</b> Take a break from reading and go build a few websites using HTML and CSS. <br>
+RESOURCES
+[21 places to get free images for your website designs](https://bootstrapbay.com/blog/free-stock-photos/)
 
-_STOP!_ Take a break from reading and go build a few websites using HTML and CSS. <br>
+<b>Fun Projects:</b><br>
+Here are a few ideas of web pages you can create. This will allow you to practice your new learned skills. I will add a link to each project to give you an idea of what the end product will look like. Try to figure it out on your own first. If you are struggling, right/click and view the souce code. If you are still not sure how to do something, remember that Google can be your best friend! 
 
-Fun Projects:<br>
-* Create a full screen landing page with background image
+* Create a full screen landing page with background image - [Example](http://susanwinters.info/project_fullscreen-landing-page/index.html)
 * Create a landing page with a carousel slider
-* Create a photo gallery web page [Example](http://www.wayne-dalton.com/WoodDoorGallery/index.html)
-* Create a web page that uses a jQuery plugin [Example](http://susanwinters.info/project-gaylord/index.html)
-* Create a basic form - just the elements not the processing of the form [Example](http://codepen.io/susanwinters/full/yeVGNo/)
+* Create a photo gallery web page - [Example](http://www.wayne-dalton.com/WoodDoorGallery/index.html)
+* Create a basic form - just the elements not the processing of the form - [Example](http://codepen.io/susanwinters/full/yeVGNo/)
 * Learn how to use the Pinterest Widgets [Quick Start Guide](http://codepen.io/susanwinters/full/vKOPpL/)
 * Create a web page with a timeline that tells a story
 * Create a restaurant website displaying menu items and images
-* Create a web page and embed a YouTube video [Code Example](http://codepen.io/susanwinters/pen/QNmJQg)
+* Create a web page and embed a YouTube video [Code Example](http://susanwinters.info/project_HourOfCode/index.html)
+* Create a web page and embed a video from another website - [Code Example](http://susanwinters.info/project_MVAvideos/index.html)
 * Create a web page that displays a video via HTML5
 * Create a web page that embeds a presentation from [Slideshare](http://www.slideshare.net/)
 * Create a web page that lets people leave you a voicemail [SpeakPipe](https://www.speakpipe.com/)
 
+### Quick Templates to Get Your Web Project Started<br>
+You'll quickly learn that every website has the same setup structure (folder for images, css, and javascript, and index file, etc.) Here are a few tools you can use that will help you get your website projects started quickly. You definately do not need to learn all of these. Just pick one. They pretty much all do the same thing. I listed them in order of my personal preference.
+
+* [Bootstrap](http://getbootstrap.com/) for HTML, CSS & JavaScript - [Learn](http://www.tutorialspoint.com/bootstrap/) - [Free Video Course](http://codecollege.ca/courses/bootstrap-4-quickstart)
+* [HTML5 BoilerPlate](https://html5boilerplate.com/) 
+* [Zurb Foundation](http://foundation.zurb.com/) - [Learn](http://www.tutorialspoint.com/foundation/index.htm)
+
 Resources:<br>
-* [Dreamweaver](http://www.adobe.com/products/dreamweaver.html) Student Discount! [Tutorials](https://helpx.adobe.com/dreamweaver/how-to/make-style-web-page.html)
+* [Dreamweaver](http://www.adobe.com/products/dreamweaver.html) Student Discount! [Tutorials](https://helpx.adobe.com/dreamweaver/how-to/make-style-web-page.html) - I will warn you now. Once you discover how easy it is to build website using Dreamweaver you are going to be pumping out website very fast!!!
+
+### Optional Learning - IF you want to specialize in Front End Design instead of Backend check these out. Otherwise skip it.
+* [SASS](http://sass-lang.com/) - [Learn](http://www.tutorialspoint.com/sass/index.htm) - CSS with Super Powers [Free Intro Interactive Tutorial](https://www.codecademy.com/learn/learn-sass)
+* [jQuery UI](http://jqueryui.com/) for User Interfaces - [Learn](http://www.tutorialspoint.com/jqueryui/index.htm) - [Demos](http://jqueryui.com/demos/)
 
 ----------------------------------------
 
@@ -117,9 +124,13 @@ Before you jump off into the world of JavaScript, you should first learn how to 
 * [SoundCloud](https://developers.soundcloud.com/)
 * [RSS Feeds](https://susanwinters214.wordpress.com/2016/04/26/how-to-add-rss-to-your-website/)
 
-_STOP!_ Take a break from reading and go build a website using HTML, CSS and APIs. <br>
+
+<b>STOP!</b> Take a break from reading and go build a few websites using jQuery. <br>
+
+
 
 Projects:<br>
+* Create a web page that uses a jQuery plugin [Example](http://susanwinters.info/project-gaylord/index.html)
 * Create a business web page with a Google Map
 * Create a business web page with Yelp Reviews
 * Create a page for visitors to subscribe
@@ -131,7 +142,8 @@ Projects:<br>
 * Create a web page with an interactive quiz
 * Create a calculator using javaScript
 
-Resources:<br>
+RESOURCES:<br>
+[Popular jQuery Plugins](https://www.sitepoint.com/jquery-popular-plugins-list/)
 * [How to use the JavaScript Debugger](https://www.youtube.com/watch?list=PLViRFZPCqDBfpIdhWxj3jqzvT5lCoU_B8&v=zv_aOlH8S_o)
 * [Webstorm](https://www.jetbrains.com/webstorm/) *Student Discount!
 * [Form Mail](https://formspree.io/)
@@ -237,13 +249,16 @@ A website viewed with your mobile phone. No need to download an app from the App
 Place this meta tag in your head section. This makes the page fit the screen.
 `<meta name="viewport" content="width=device-width, initial-scale=1>`
 
+### Mobile App - Cross Platform Development
+- [jQuery Mobile](https://jquerymobile.com/) - [Learn](http://www.tutorialspoint.com/jquery_mobile/index.htm)
+- [PhoneGap](http://phonegap.com/) - [Learn](http://www.tutorialspoint.com/phonegap/index.htm)
+- [Adobe Air SDK](http://www.adobe.com/devnet/air/air-sdk-download.html)
+- [Corona](https://coronalabs.com/)
+
 ### Mobile App Native Languages
 - [Swift](https://developer.apple.com/swift/) for iOS
 - [Java](https://docs.oracle.com/javase/tutorial/) for Android
-- [jQuery Mobile](https://jquerymobile.com/) - [Learn](http://www.tutorialspoint.com/jquery_mobile/index.htm)
-- [PhoneGap](http://phonegap.com/) - [Learn](http://www.tutorialspoint.com/phonegap/index.htm)
 - [Apache Flex SDK](http://flex.apache.org/about-features.html) [Learn](http://www.tutorialspoint.com/flex/index.htm)
-- [Adobe Air SDK](http://www.adobe.com/devnet/air/air-sdk-download.html)
 - [Android Studio](https://developer.android.com/studio/index.html)
 - [Xcode](https://developer.apple.com/xcode/) 
 - [Starling Game Engine](http://gamua.com/starling/)
@@ -251,6 +266,14 @@ Place this meta tag in your head section. This makes the page fit the screen.
 - [Ionic Framework](http://ionicframework.com/) - [Learn](http://www.tutorialspoint.com/ionic/index.htm)
 - [Mobile Testing](http://www.tutorialspoint.com/mobile_testing/index.htm)
 - [Learn to use the Amazon API](https://developer.amazon.com/services-and-apis)
+
+----------------------------------------
+
+
+
+
+
+
  
 Created with:  <a href="https://stackedit.io/editor" target="_blank">StackEdit Markdown Editor</a><br>
 [Markdown Cheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
