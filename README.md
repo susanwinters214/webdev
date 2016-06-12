@@ -37,7 +37,7 @@ Resources:<br>
 * 
 <b>Congrats!</b> You've now learned the basics of web design and could get a job with the knowledge and skills you've gained. This is a great milestone! So.... how is your confidence? Before you start looking for a job you'll need to have confidence in your new abilities. And the way you gain confidence is through repeatedly completing projects successfully. Don't worry. Nobody knows it all! If you come across something you don't know how to do, learn how to 'Google' your goal and test out various projects.
 
-<b>STOP!</b> Take a break from reading and go build a few websites using HTML and CSS. <br>
+<b>STOP!</b> Take a break from reading and go build a few websites using HTML and CSS and Bootstrap <br>
 
 <b>Fun Projects:</b><br>
 Here are a few ideas of web pages you can create. This will allow you to practice your new learned skills. I will add a link to each project to give you an idea of what the end product will look like. Try to figure it out on your own first. If you are struggling, right/click and view the souce code. If you are still not sure how to do something, remember that Google can be your best friend! 
@@ -45,13 +45,12 @@ Here are a few ideas of web pages you can create. This will allow you to practic
 * Create a full screen landing page with background image - [Example](http://susanwinters.info/project_fullscreen-landing-page/index.html)
 * Create a basic form - just the elements not the processing of the form - [Example](http://codepen.io/susanwinters/full/yeVGNo/)
 * Learn how to use the Pinterest Widgets [Quick Start Guide](http://codepen.io/susanwinters/full/vKOPpL/)
-* Create a web page and embed a YouTube video [Code Example](http://susanwinters.info/project_HourOfCode/index.html)
+* Create a web page and embed a YouTube video [Example](http://susanwinters.info/project_HourOfCode/index.html)
 * Create a web page and embed a video from another website - [Code Example](http://susanwinters.info/project_MVAvideos/index.html)
 * Create a web page that embeds a presentation from [Slideshare](http://www.slideshare.net/)
 * Create a web page that lets people leave you a voicemail [SpeakPipe](https://www.speakpipe.com/)
-* Create a restaurant website displaying menu items and images using Bootstrap  - [Read](http://getbootstrap.com/css/#images)
 * Create a web page with a timeline that tells a story using Bootstrap pagination component - [Read](http://getbootstrap.com/components/#pagination) - [Example](http://susanwinters.info/project_BoostrapPaginationStory/index.html)
-
+* Create a restaurant website displaying menu items and images using Bootstrap  - [Read](http://getbootstrap.com/css/#images)
 
 
 ### Optional Learning - IF you want to specialize in Front End Design instead of Backend check these out. Otherwise skip it.
@@ -63,20 +62,30 @@ Here are a few ideas of web pages you can create. This will allow you to practic
 At this point you need review the basics of javaScript. Just the basics!! Learn it just enough to get the concepts and then quickly move on to jQuery! jQuery is extremely popular. It's easier to understand and use. "Write Less, Do More" - means it takes fewer lines of code using jQuery than it does to accomplish the same thing using javaScript. Don't worry. You'll have the opportunity to dive into javaScript deeper when you get to the advanced section. But I don't want you to think you must understand all of javaScript before moving on to jQuery! Don't go down that rabbit hole and get yourself discouraged because you can't find your way out. The truth is javaScript can be very frustrating. Beginner web designers can get by knowing very little javaScript.  Don't think you can't be a web designer without fully understanding javaScript.  
 * [JavaScript](http://www.tutorialspoint.com/javascript/index.htm)
 * [jQuery](http://jquery.com/) - [Learn](http://www.tutorialspoint.com/jquery/index.htm)
-* [jQuery UI](http://jqueryui.com/) for User Interfaces - [Learn](http://www.tutorialspoint.com/jqueryui/index.htm) - [Demos](http://jqueryui.com/demos/)
+
 
 <b>STOP!</b> Take a break from reading and go build a few websites using jQuery & jQuery UI. <br>
 Projects:<br>
-* Create a web page using jQuery & Fancybox plugin - [Example](http://susanwinters.info/project_YouTubeVideoGallery/index.html)
-* Create a web page that uses a jQuery plugin you find on the web. [Example](http://susanwinters.info/project-gaylord/index.html)
+* Create a web page with the content inside of tabs - [Example](http://susanwinters.info/project_jQ-Tabs/RainbowRecipe.html)
+* Create a FAQ page and toggle the answers using the "this" keyword - [Example](http://susanwinters.info/project_jQ-FAQtoggle/)
+* Create an image strip with zoom popup of image using Fancybox - [Example](http://susanwinters.info/project_fancyBoxZoom/index.html)
+* Create an image map with zoom popup box of image using Fancybox - [Example](http://susanwinters.info/project_fancyBoxBldg/index.html)
+* Create an image map with zoom popup box with text in a scroll box using Fancybox - [Example](http://susanwinters.info/project_fancyBoxBldg/index2.html)
+* Create a video gallery using jQuery & Fancybox plugin - [Example](http://susanwinters.info/project_YouTubeVideoGallery/index.html)
+* Create a web page that tells a story using Ennui contentslider.js - [Example](http://susanwinters.info/project_JQ-SlidePageBook/)
+* Create an automated slideshow using jQuery BoxSlider plugin - [Example](http://susanwinters.info/project_JQ-autoSlider/)
+* Create a web page using any jQuery plugin you find on the web. [Example](http://susanwinters.info/project-gaylord/index.html)
 * Create a web page using jQuery tooltip - [Example 1](http://susanwinters.info/project_jQTooltips/tooltip-comments.html) - [Example 2](http://susanwinters.info/project_jQTooltips/tooltip-graphics.html)
 * Create a web page using the Parallax plugin - [Example](http://susanwinters.info/project_parallaxSlider/index.html#)
-* Create a web page that lets the user filter images and use animation to display them. - [Example](http://susanwinters.info/project_jQ-Filter-Animation/#WOOD)
+* Create a web page that lets the user filter images and use animation to display them. - [Example](http://susanwinters.info/project_jQ-Filter-Animation/)
 * Create a web page with a slider [Example](http://susanwinters.info/project_slickSlideshow/index.html)
-* Create a landing page with a carousel slider
+* Create a landing page with a carousel slider - [Example](https://getbootstrap.com/examples/carousel/)
 * Create a photo gallery web page - [Example](http://www.wayne-dalton.com/WoodDoorGallery/index.html)
 
- 
+### More jQuery
+These are optional but can be fun to play with. 
+ * [jQuery UI](http://jqueryui.com/) for User Interfaces - [Learn](http://www.tutorialspoint.com/jqueryui/index.htm) - [Demos](http://jqueryui.com/demos/)
+ * [jQuery Mobile](https://jquerymobile.com/) for creating mobile websites or apps.
 
 
 
