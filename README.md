@@ -59,13 +59,27 @@ Resources:<br>
 
 ### Optional Learning - IF you want to specialize in Front End Design instead of Backend check these out. Otherwise skip it.
 * [SASS](http://sass-lang.com/) - [Learn](http://www.tutorialspoint.com/sass/index.htm) - CSS with Super Powers [Free Intro Interactive Tutorial](https://www.codecademy.com/learn/learn-sass)
-* [jQuery UI](http://jqueryui.com/) for User Interfaces - [Learn](http://www.tutorialspoint.com/jqueryui/index.htm) - [Demos](http://jqueryui.com/demos/)
 
 ----------------------------------------
 
-## FRONT END INTERMEDIATE
+## FRONT END INTERMEDIATE (Interactivity)
+At this point you need review the basics of javaScript. Just the basics!! Learn it just enough to get the concepts and then quickly move on to jQuery! jQuery is extremely popular. It's easier to understand and use. "Write Less, Do More" - means it takes fewer lines of code using jQuery than it does to accomplish the same thing using javaScript. Don't worry. You'll have the opportunity to dive into javaScript deeper when you get to the advanced section. But I don't want you to think you must understand all of javaScript before moving on to jQuery! Don't go down that rabbit hole and get yourself discouraged because you can't find your way out. The truth is javaScript can be very frustrating. Beginner web designers can get by knowing very little javaScript.  Don't think you can't be a web designer without fully understanding javaScript.  
+* [JavaScript](http://www.tutorialspoint.com/javascript/index.htm)
+* [jQuery](http://jquery.com/) - [Learn](http://www.tutorialspoint.com/jquery/index.htm)
+* [jQuery UI](http://jqueryui.com/) for User Interfaces - [Learn](http://www.tutorialspoint.com/jqueryui/index.htm) - [Demos](http://jqueryui.com/demos/)
 
-### HTML5 JavaScript APIs - [Read](http://html5index.org/)
+<b>STOP!</b> Take a break from reading and go build a few websites using jQuery & jQuery UI. <br>
+Projects:<br>
+* Create a web page using jQuery & Fancybox plugin - [Example](http://susanwinters.info/project_YouTubeVideoGallery/index.html)
+* Create a web page that uses a jQuery plugin you find on the web. [Example](http://susanwinters.info/project-gaylord/index.html)
+* Create a web page using jQuery tooltip - [Example 1](http://susanwinters.info/project_jQTooltips/tooltip-comments.html) - [Example 2](http://susanwinters.info/project_jQTooltips/tooltip-graphics.html)
+* Create a web page using the Parallax plugin - [Example](http://susanwinters.info/project_parallaxSlider/index.html#)
+* Create a web page that lets the user filter images and use animation to display them. - [Example](http://susanwinters.info/project_jQ-Filter-Animation/#WOOD)
+* more to come....
+* more to come....
+
+ 
+### HTML5 APIs - [Read](http://html5index.org/)
 |API            | Description                     | Example                    |
 |---------------|:--------------------------------|:---------------------------|
 |Forms          | Set input types and validation  | [view example](http://codepen.io/susanwinters/pen/YwqNdq)         |
@@ -96,17 +110,13 @@ Resources:<br>
 *[Psudo-Classes on MDN](https://developer.mozilla.org/en-US/docs/Web/CSS/Pseudo-classes) - look at :disabled, :enabled, :link, :hover, :visited, :active, :focus, :indeterminate, :valid, :invalid, and :target
 
 
-----------------------------------------------------------------------------------------
-### Learn Programming Basics Before Attempting JavaScript 
-Before you jump off into the world of JavaScript, you should first learn how to solve problems. While learning HTML and CSS you were mainly focusing on syntax. You will need to learn the syntax of JavaScript too but there's more to it than just memorizing syntax. I recommend you take a break from coding and just spend the next week learning about [algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) and how to [Think Like A Programmer](http://amzn.to/1Y3nZwT). You can read Chapter 1 for free on Amazon.
 
-"if you haven’t already solved the problem in your head, then you can’t have a plan for implementing a solution in code. That will come later. Even at the beginning, though, you should have a plan for how you are going to find the solution." 
 
-### Front End Development (Interactivity)
-* [JavaScript](http://www.tutorialspoint.com/javascript/index.htm)
 * [JSON](http://www.w3schools.com/json/)
 * [AJAX](http://www.tutorialspoint.com/ajax/index.htm) - Ajax is a client-side script that communicates to and from a server/database without the need for a postback or a complete page refresh. Ajax is the method of exchanging data with a server, and updating parts of the web page without reloading the entire page.
-* [jQuery](http://jquery.com/) - [Learn](http://www.tutorialspoint.com/jquery/index.htm)
+* 
+
+
 
 ### OAuth
 * What the heck is OAuth? [Read](OAuth) - [Video](https://www.youtube.com/watch?v=8sGY55yxicA)
@@ -116,6 +126,10 @@ Before you jump off into the world of JavaScript, you should first learn how to 
 
 ### APIs
 * [GoogleMaps](https://developers.google.com/maps/) - [Learn](http://www.tutorialspoint.com/google_maps/index.htm)
+    - [Example - Map Adress Satellite View](http://susanwinters.info/project_GoogleMapsAPI/mapSatellite.html)
+    - [Example - Map Zoom View](http://susanwinters.info/project_GoogleMapsAPI/mapRoadZoom12.html)
+    - [Example - Map with Scale Control](http://susanwinters.info/project_GoogleMapsAPI/mapRoadScale.html)
+    - [Example - Hybrid Map](http://susanwinters.info/project_GoogleMapsAPI/mapHybrid.html)
 * [Yelp API](https://www.yelp.com/developers/faq) - Customer Reviews
 * [Pinterest API](https://developers.pinterest.com/docs/getting-started/introduction/)
 * [PayPal](https://www.paypal.com/webapps/mpp/get-started/buy-now-button)
@@ -127,10 +141,7 @@ Before you jump off into the world of JavaScript, you should first learn how to 
 
 <b>STOP!</b> Take a break from reading and go build a few websites using jQuery. <br>
 
-
-
 Projects:<br>
-* Create a web page that uses a jQuery plugin [Example](http://susanwinters.info/project-gaylord/index.html)
 * Create a business web page with a Google Map
 * Create a business web page with Yelp Reviews
 * Create a page for visitors to subscribe
@@ -163,6 +174,11 @@ RESOURCES:<br>
 ----------------------------------------
 
 ## FRONT END ADVANCED
+----------------------------------------------------------------------------------------
+## Going Beyond the Basics of JavaScript
+<b>Congrats!</b> You've now learned the intermediate section of web development and could get a job with the knowledge and skills you've gained. This is a great milestone! You know enough about javaScript and jQuery to make some really cool websites and if you're only interested in web design then you may not ever use the programming pieces of javaScript. And that's okay. People have their preferences. But if and when you decide to take your skills up a notch then you'll want to learn more about how you can use javaScript to write programs for your apps. But before you jump off into the deep end of JavaScript, you should first learn how to solve problems. While learning HTML and CSS you were mainly focusing on syntax. You will need to learn the syntax of JavaScript too but there's more to it than just memorizing syntax. I recommend you take a break from coding and just spend the next week learning about [algorithms](https://www.khanacademy.org/computing/computer-science/algorithms) and how to [Think Like A Programmer](http://amzn.to/1Y3nZwT). You can read Chapter 1 for free on Amazon.
+
+"if you haven’t already solved the problem in your head, then you can’t have a plan for implementing a solution in code. That will come later. Even at the beginning, though, you should have a plan for how you are going to find the solution." 
 
 ### Frameworks
 * [Angular](https://angularjs.org/) for JavaScript - [Learn](http://www.tutorialspoint.com/angularjs/index.htm) - [Free Video Tutorials](http://campus.codeschool.com/courses/shaping-up-with-angular-js/intro)
