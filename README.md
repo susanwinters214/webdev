@@ -305,7 +305,8 @@ Place this meta tag in your head section. This makes the page fit the screen.
 ----------------------------------------
 
 
-
+### Resources / Tools
+http://w3c.github.io/developers/tools/ 
 
 
 
